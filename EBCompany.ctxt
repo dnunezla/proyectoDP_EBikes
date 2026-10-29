@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Oct 22 11:11:44 CEST 2026
+comment0.target=EBCompany
+comment0.text=\r\n Write a description of class EBCompany here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=name
+comment1.target=EBCompany(java.lang.String)
+comment1.text=\r\n Constructor for objects of class EBCompany\r\n
+numComments=2

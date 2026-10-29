@@ -1,0 +1,21 @@
+#BlueJ class context
+#Wed Oct 28 16:28:07 CET 2026
+comment0.target=ElectricBike
+comment0.text=\r\n Write a description of class ElectricBike here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=id_eB company location targetLocation idleCount batteryCapacity batteryLevel chargesCount chargesCost
+comment1.target=ElectricBike(java.lang.String, EBCompany, Location, Location, int, int, int, int, float)
+comment1.text=\r\n Constructor for objects of class ElectricBike\r\n
+comment10.target=int getChargesCount()
+comment11.target=float getChargesCost()
+comment12.target=java.lang.String locationToString()
+comment12.text=public ArrayList<Dock> getDocksUsed(){\r\n        return docksUsed;\r\n}
+comment13.target=java.lang.String toString()
+comment2.target=java.lang.String getId_eB()
+comment3.target=EBCompany getCompany()
+comment4.target=Location getLocation()
+comment5.target=Location getTargetLocation()
+comment6.target=int getIdleCount()
+comment7.target=int getBatteryCapacity()
+comment8.target=int getBatteryLevel()
+comment9.target=int getWsCharged()
+numComments=14
